@@ -1,0 +1,12 @@
+FUNC greet
+BLOCK_START
+SEND greet
+BLOCK_END
+
+FUNC main
+BLOCK_START
+SEND greet
+EXIT 0
+BLOCK_END
+
+VAR string greet "Hello from FluxAsm!"

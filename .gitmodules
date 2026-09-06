@@ -1,0 +1,15 @@
+[submodule "FluxAsmC"]
+	path = FluxAsmC
+	url = https://github.com/Jw4Lk3r16/FluxAsmC
+[submodule "FluxAsmRT"]
+	path = FluxAsmRT
+	url = https://github.com/Jw4Lk3r16/FluxAsmRT
+[submodule "FluxAsmAPI"]
+	path = FluxAsmAPI
+	url = https://github.com/Jw4Lk3r16/FluxAsmAPI
+[submodule "FluxAsmExamples"]
+	path = FluxAsmExamples
+	url = https://github.com/Jw4Lk3r16/FluxAsmExamples
+[submodule "FluxLang-Tools"]
+	path = FluxLang-Tools
+	url = https://github.com/FluxAsm/FluxLang-Tools
