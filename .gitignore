@@ -2,4 +2,12 @@ send(greet)
 welcome(user)
 build.txt
 git
-/*.sdm
+
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+out/
+bin/
